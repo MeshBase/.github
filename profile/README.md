@@ -27,7 +27,7 @@ It’s a powerful foundation for:
 ## 🛠 Features
 ### ✅ Library Includes:
 - 🔁 **Multi-hop routing** (Ad-hoc on-demand distance vector–inspired)
-- 🔐 **End-to-end encryption** using RSA 2048 & SHA-256 fingerprinting
+- 🔐 **End-to-end encryption**
 - 📤 **Binary file support** (e.g. image sharing)
 - 🔍 **Dynamic discovery** of nearby devices using Wi-Fi Direct and BLE
 - 💬 **One-to-one chat**, offline storage, and delivery retry system
