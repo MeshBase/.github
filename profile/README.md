@@ -2,7 +2,8 @@
 
 ## **Hi, This is us 👋!**
 
-![image](https://github.com/user-attachments/assets/78e3fbbb-bfd1-465d-8ccb-3b08dcfdcb0d)
+![The Team](https://github.com/user-attachments/assets/70861654-4e88-4d36-b1de-d4fb06b6537a)
+
 
 > Fun fact: This project was inspired by the series *Silicon Valley*.
 ---
